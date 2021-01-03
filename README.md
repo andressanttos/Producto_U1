@@ -29,6 +29,18 @@
 
 3. Diagramas
 
+*La fuente de voltaje de cd*
+
+![](img/diagrama%201.png)
+
+*Conversiones de fuente*
+
+![](img/diagrama%202.png)
+
+*La Fuente de correinte*
+
+![](img/diagrama%203.png
+
 *Diagrama  Teorema de Superposición*
 
 ![](img/diagrama%204.png)
