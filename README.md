@@ -11,7 +11,15 @@
 
 2. MARCO TEÓRICO
 
+![](img/marco%201.jpeg)
+
+![](img/marco%202.jpeg)
+
+![](img/marco%203.jpeg)
+
 ![](img/marco%204.jpg)
+
+
 
 ![](https://github.com/andressanttos/Producto_U1/blob/main/img/marco%206.png)
 
