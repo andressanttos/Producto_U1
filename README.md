@@ -31,15 +31,15 @@
 
 *La fuente de voltaje de cd*
 
-![](img/diagrama%201.png)
+![](img/diagrama%201.jpeg)
 
 *Conversiones de fuente*
 
-![](img/diagrama%202.png)
+![](img/diagrama%202.jpeg)
 
 *La Fuente de correinte*
 
-![](img/diagrama%203.png
+![](img/diagrama%203.jpeg)
 
 *Diagrama  Teorema de Superposición*
 
