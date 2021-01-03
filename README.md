@@ -56,3 +56,14 @@
 *Diagrama circuito  Y y Delta:*
 
 ![](https://github.com/andressanttos/Producto_U1/blob/main/img/diagrama%208.png)
+
+4.  Lista de componentes
+
+
+5. Explicación
+
+![](https://github.com/andressanttos/Proyecto-de-Investigacion-1/blob/main/img/1.0.jpg)
+
+![](https://github.com/andressanttos/Proyecto-de-Investigacion-1/blob/main/img/2.0.jpg)
+
+![](https://github.com/andressanttos/Proyecto-de-Investigacion-1/blob/main/img/3.0.jpg)
