@@ -21,6 +21,10 @@
 
 3. Diagramas
 
+*Diagrama  Teorema de Superposición*
+
+![](img/diagrama%204.png)
+
 *Diagrama  Teorema de Norton:*
 
 ![](https://github.com/andressanttos/Producto_U1/blob/main/img/diagrama%206.png)
