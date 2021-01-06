@@ -47,6 +47,10 @@
 
 ![](img/diagrama%204.png)
 
+*Diagrama Teorema de Thevenin* 
+
+![](img/diagrama%205.jpg)
+
 *Diagrama  Teorema de Norton:*
 
 ![](https://github.com/andressanttos/Producto_U1/blob/main/img/diagrama%206.png)
