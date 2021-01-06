@@ -21,6 +21,8 @@
 
 
 
+![](img/marco%205.1.jpg)
+
 ![](https://github.com/andressanttos/Producto_U1/blob/main/img/marco%206.png)
 
 ![](https://github.com/andressanttos/Producto_U1/blob/main/img/marco%207.png)
