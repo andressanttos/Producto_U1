@@ -2,6 +2,13 @@
 
 1. OBJETIVOS
 
+• Realizar conversiones de voltaje de manera correcta para la solución de problemas propuestos.
+
+• Comprender conceptos básicos sobre algunos términos utilizados en el campo de fundamentos de los circuitos para que de esta forma analizar y entender las ideas propuestas.
+
+• Analisar  el teorema de superposición y aplicarlo a los circuitos electrónicos.
+
+• Recordar los pasos a seguir para aplicar el teorema de superposición en la practica teórica de cálculos. 
 
 •	Aplicar el teorema de Norton para simplificar un circuito lineal de dos terminales en un circuito equivalente con una sola fuente de corriente y un resistor.
 
