@@ -84,11 +84,23 @@
 
 •	Este proyecto es muy importante para nosotros, porque no solo aplicamos los conocimientos adquiridos en esta parte del trabajo, sino que también utilizamos toda la experiencia previa en circuitos electrónicos. Es interesante saber cómo es la resolución de circuitos eléctricos complejos a través de teoremas que facilitan la resolución del mismo. Además tener una explicación clara y detallada sobre las fuentes de voltaje y su transformación equivalente.
 
+• El uso y aplicación del teorema de superposición es de gran efectividad cuando hallamos más de dos fuentes de voltaje (o corriente) presentes en nuestro circuito electróncico y queremos calcular la intensidad que fluye en algun elemento en especifico. En circuitos complejos no resulta práctico el uso de este método pero el mismo valida, por ejemplo, realizar cálculos por separado en un circuito estimulado con corrientes directa y alterna a la vez, como son los circuitos con elementos activos (transistores, circuitos operacionales, etc.), así como los estimulados con señales no sinusoidales.
+
 •	Determinamos que el teorema de Norton y de Thevenin nos son de mucha utilidad, ya que ambos pueden servir para reducir un circuito complejo en uno mucho más sencillo en el cual podemos medir la corriente o el voltaje en algún elemento del circuito. 
 
 •	Para la resolución de ejercicios hay que tener en cuenta varias definiciones, como por ejemplo las fórmulas de división de corriente y voltaje, las leyes de Kirchhoff, de Ohm, y el método de análisis de nodos y de mallas.
 
 6. Bibliografía 
+
+•	 Floyd Thomas L, “Principios de Circuitos Eléctricos”, 8 ed. 2007 .Pearson Educación de México, S.A. de C.V. México, pp. 281-333.
+
+• Teorema de transferencia de potencia máxima. La fisica y quimica. Recuperado de: https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/	
+
+• Redes delta-estrella de resistencias (artículo). (2018). Khan Academy. Recuperado de : https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-resistor-circuits/a/ee-delta-wye-resistor-networks
+
+• Teorema de superposición para solución de circuitos eléctricos (2018). Recuperado de: https://www.ecured.cu/Teorema_de_superposición_para_solución_de_circuitos_eléctricos
+ 
+•Kasatkin, A. S., Nemtsov, M. V. (1983). Electrotejnika. Moscú: Energoatomizdat.
 
 7. Anexos
 
