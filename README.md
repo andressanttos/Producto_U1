@@ -79,18 +79,18 @@
 
 ![](https://github.com/andressanttos/Trabajo-de-Investigacion-1/blob/main/img/EXPLICACION3.png)
 
-5. Aportaciones
 
+5. Conclusiones
 
-6. Explicación
-
-7. Conclusiones
+•	Este proyecto es muy importante para nosotros, porque no solo aplicamos los conocimientos adquiridos en esta parte del trabajo, sino que también utilizamos toda la experiencia previa en circuitos electrónicos. Es interesante saber cómo es la resolución de circuitos eléctricos complejos a través de teoremas que facilitan la resolución del mismo. Además tener una explicación clara y detallada sobre las fuentes de voltaje y su transformación equivalente.
 
 •	Determinamos que el teorema de Norton y de Thevenin nos son de mucha utilidad, ya que ambos pueden servir para reducir un circuito complejo en uno mucho más sencillo en el cual podemos medir la corriente o el voltaje en algún elemento del circuito. 
 
 •	Para la resolución de ejercicios hay que tener en cuenta varias definiciones, como por ejemplo las fórmulas de división de corriente y voltaje, las leyes de Kirchhoff, de Ohm, y el método de análisis de nodos y de mallas.
 
-8. Anexos
+6. Bibliografía 
+
+7. Anexos
 
 ![](https://github.com/andressanttos/Trabajo-de-Investigacion-1/blob/main/img/3.0.jpg)
 
