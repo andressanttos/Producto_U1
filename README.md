@@ -85,5 +85,7 @@
 
 8. Anexos
 
+![](https://github.com/andressanttos/Trabajo-de-Investigacion-1/blob/main/img/3.0.jpg)
+
 
 
