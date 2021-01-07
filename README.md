@@ -66,11 +66,6 @@
 
 4. Explicación
 
-![](https://github.com/andressanttos/Proyecto-de-Investigacion-1/blob/main/img/1.0.jpg)
-
-![](https://github.com/andressanttos/Proyecto-de-Investigacion-1/blob/main/img/2.0.jpg)
-
-![](https://github.com/andressanttos/Proyecto-de-Investigacion-1/blob/main/img/3.0.jpg)
 
 
 5. Aportaciones
