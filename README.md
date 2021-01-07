@@ -66,7 +66,11 @@
 
 4. Explicación
 
+![](https://github.com/andressanttos/Trabajo-de-Investigacion-1/blob/main/img/EXPLICACION1.png)
 
+![](https://github.com/andressanttos/Trabajo-de-Investigacion-1/blob/main/img/EXPLICACION2.png)
+
+![](https://github.com/andressanttos/Trabajo-de-Investigacion-1/blob/main/img/EXPLICACION3.png)
 
 5. Aportaciones
 
