@@ -83,6 +83,7 @@
 •	Determinamos que el teorema de Norton y de Thevenin nos son de mucha utilidad, ya que ambos pueden servir para reducir un circuito complejo en uno mucho más sencillo en el cual podemos medir la corriente o el voltaje en algún elemento del circuito. 
 
 •	Para la resolución de ejercicios hay que tener en cuenta varias definiciones, como por ejemplo las fórmulas de división de corriente y voltaje, las leyes de Kirchhoff, de Ohm, y el método de análisis de nodos y de mallas.
+
 8. Anexos
 
 
